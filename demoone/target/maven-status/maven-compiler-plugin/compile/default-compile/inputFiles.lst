@@ -1,0 +1,7 @@
+/tmp/code/demoone/src/main/java/com/cloudiqtech/spring/config/CassandraConfig.java
+/tmp/code/demoone/src/main/java/com/cloudiqtech/entity/Greeting.java
+/tmp/code/demoone/src/main/java/com/cloudiqtech/controller/GreetingController.java
+/tmp/code/demoone/src/main/java/com/cloudiqtech/repo/PersonRepo.java
+/tmp/code/demoone/src/main/java/com/cloudiqtech/repo/GreetRepository.java
+/tmp/code/demoone/src/main/java/com/cloudiqtech/entity/Person.java
+/tmp/code/demoone/src/main/java/com/cloudiqtech/DemooneApplication.java

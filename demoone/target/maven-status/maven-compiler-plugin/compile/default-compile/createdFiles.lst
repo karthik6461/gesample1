@@ -1,0 +1,7 @@
+com/cloudiqtech/repo/PersonRepo.class
+com/cloudiqtech/entity/Greeting.class
+com/cloudiqtech/entity/Person.class
+com/cloudiqtech/spring/config/CassandraConfig.class
+com/cloudiqtech/DemooneApplication.class
+com/cloudiqtech/controller/GreetingController.class
+com/cloudiqtech/repo/GreetRepository.class
